@@ -63,7 +63,7 @@ jobs:
         echo "------------------------------- 磁盘详情 -------------------------------\n"
         df -Th
 
-    - name: 初始化编译环境
+    - name: 初始化编译环境试试
       env:
         DEBIAN_FRONTEND: noninteractive
       run: |
