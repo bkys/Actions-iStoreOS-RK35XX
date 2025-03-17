@@ -47,6 +47,8 @@
 | EZPRO-Mrkaio-M68S-PLUS     | istoreos-rockchip-rk35xx-ezpro_mrkaio-m68s-plus-squashfs-sysupgrade.img.gz     |
 | DG-TN3568     | istoreos-rockchip-rk35xx-dg_tn3568-squashfs-sysupgrade.img.gz     |
 | YIJIAHE-JM10     | istoreos-rockchip-rk35xx-yijiahe_jm10-squashfs-sysupgrade.img.gz     |
+| rk3568-nsy-g68-plus | istoreos-rockchip-rk35xx-nsy_g68-plus-squashfs-sysupgrade.img.gz     |
+| rk3568-nsy-g16-plus | istoreos-rockchip-rk35xx-nsy_g16-plus-squashfs-sysupgrade.img.gz     |
 
 ### x86 架构
 
